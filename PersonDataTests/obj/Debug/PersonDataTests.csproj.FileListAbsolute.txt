@@ -1,0 +1,13 @@
+C:\Users\jscha\Downloads\DataAccessDemo\DataAccessDemo\PersonDataTests\bin\Debug\PersonDataTests.dll
+C:\Users\jscha\Downloads\DataAccessDemo\DataAccessDemo\PersonDataTests\bin\Debug\PersonDataTests.pdb
+C:\Users\jscha\Downloads\DataAccessDemo\DataAccessDemo\PersonDataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jscha\Downloads\DataAccessDemo\DataAccessDemo\PersonDataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jscha\Downloads\DataAccessDemo\DataAccessDemo\PersonDataTests\bin\Debug\PersonData.dll
+C:\Users\jscha\Downloads\DataAccessDemo\DataAccessDemo\PersonDataTests\bin\Debug\PersonData.pdb
+C:\Users\jscha\Downloads\DataAccessDemo\DataAccessDemo\PersonDataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jscha\Downloads\DataAccessDemo\DataAccessDemo\PersonDataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jscha\Downloads\DataAccessDemo\DataAccessDemo\PersonDataTests\obj\Debug\PersonDataTests.csproj.AssemblyReference.cache
+C:\Users\jscha\Downloads\DataAccessDemo\DataAccessDemo\PersonDataTests\obj\Debug\PersonDataTests.csproj.CoreCompileInputs.cache
+C:\Users\jscha\Downloads\DataAccessDemo\DataAccessDemo\PersonDataTests\obj\Debug\PersonDataTests.csproj.CopyComplete
+C:\Users\jscha\Downloads\DataAccessDemo\DataAccessDemo\PersonDataTests\obj\Debug\PersonDataTests.dll
+C:\Users\jscha\Downloads\DataAccessDemo\DataAccessDemo\PersonDataTests\obj\Debug\PersonDataTests.pdb
